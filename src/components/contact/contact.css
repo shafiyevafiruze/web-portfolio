@@ -1,0 +1,40 @@
+.contact-container {
+    width: 70%;
+    margin: auto;
+    position: relative;
+  }
+  
+  .contact-container .contact-text {
+    font-family: "Poppins", sans-serif;
+    color: #f7f197;
+    font-size: 90px;
+    font-weight: 900;
+    margin-top: 7px;
+    margin-bottom: 10px;
+  }
+  
+  .main-contact {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    margin: 0px auto;
+    top: 50px;
+  }
+  
+  .main-contact img {
+    width: 550px;
+    height: auto;
+  }
+  
+  .main-contact div {
+    margin-top: 50px;
+  }
+  
+  .main-contact div p {
+    font-family: "Poppins", sans-serif;
+    color: #03045e;
+    font-size: 16px;
+  }
+  
